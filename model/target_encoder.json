@@ -1,0 +1,10 @@
+{
+  "mapping": {
+    "Graduate": 0,
+    "Dropout": 1
+  },
+  "inverse_mapping": {
+    "0": "Graduate",
+    "1": "Dropout"
+  }
+}
