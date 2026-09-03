@@ -71,9 +71,13 @@ plotly>=5.18.0
 
 Proyek ini menyediakan aplikasi web interaktif all-in-one berbasis **Streamlit** (`app.py`) yang menggabungkan **Business Dashboard Monitoring** dan **AI Early Warning Dropout Predictor Prototype**.
 
-### 🌐 Akses Cloud & Prototype:
-- **Tautan Live Streamlit Community Cloud**: [Jaya Jaya Institut Dashboard on Streamlit Cloud](https://streamlit.io/cloud)
-- **Tautan Repository GitHub**: [GitHub Repository Proyek Akhir Jaya Jaya Institut](https://github.com/billyjonathan048/a590_proyek_akhir)
+### 🌐 Tautan Akses Cloud (Streamlit Community Cloud & GitHub):
+- **Tautan Live Prototype & Business Dashboard**:  
+  👉 **https://jaya-jaya-institut-dxnuwsa5u7dbsbzbqnfngc.streamlit.app/**
+- **Tautan Repository GitHub**:  
+  👉 **https://github.com/BillyJonathan29/jaya-jaya-institut**
+
+---
 
 ### 🚀 Cara Menjalankan Prototype & Dashboard secara Lokal:
 Jalankan perintah berikut pada terminal di direktori proyek:
